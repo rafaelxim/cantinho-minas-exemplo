@@ -1,0 +1,4 @@
+{
+  "template": "cantinho-minas",
+  "uploadURL": "https://my-strapi-bucket-77.s3.amazonaws.com/"
+}
